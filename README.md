@@ -6,9 +6,9 @@ You can find live demo <a href="https://tinyurl.com/y6c2vj9l">here</a>
 ##Built with 
 <br>
 <ul>
-  <li>* HTML</li>
-  <li>* CSS</li>
-  <li>* JS</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JS</li>
  </ul>
  <br>
 
