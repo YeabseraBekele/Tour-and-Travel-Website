@@ -10,17 +10,17 @@ You can find live demo <a href="https://tinyurl.com/y6c2vj9l">here</a>
   <li>JS</li>
  </ul>
  <br>
-## OverView
+ <h2>OverView</h2>
 <br>
-### Nav 
+* Nav 
 <img src="./readme-files/nav-c.png">
 <img src="./readme-files/nav-m.png">
 
-### Grids
+* Grids
 <br>
 <img src="./readme-files/grid-c.png">
 <img src="./readme-files/grid-m.png">
 
-### Footer
+* Footer
 <br>
 <img src="./readme-files/footer-m.png">
